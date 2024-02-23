@@ -15086,3 +15086,24 @@ textarea {
     color: #000;
     padding: 10px;
 }
+.admin-form {
+    position:relative;
+}
+.add_more {
+    position: absolute;
+    bottom: 82px;
+    left: 30px
+}
+
+.admin-form label,
+footer p {
+    margin-bottom: 0;
+}
+
+/* .submitBtn {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 100px;
+} */
